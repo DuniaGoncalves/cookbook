@@ -23,6 +23,11 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@snyk/protect@^1.1014.0":
+  version "1.1014.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1014.0.tgz#5c2ebc4e0959218159e5273d02af6835ddd50b3c"
+  integrity sha512-dTuWkCXZVr0Vi5G+uiHbRwLcqApDFQQ/QnJ49vM9Jwt69EFzYebi/YdID5O42PFUeMnU7gNlhm5MoZH34XciMg==
+
 "@types/mdast@^3.0.0":
   version "3.0.10"
   resolved "https://registry.yarnpkg.com/@types/mdast/-/mdast-3.0.10.tgz#4724244a82a4598884cbbe9bcfd73dff927ee8af"
